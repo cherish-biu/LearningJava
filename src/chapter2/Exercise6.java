@@ -17,7 +17,7 @@ public class Exercise6
             value /= 10;
         }
 
-        //System.out.println("The sum of the digits is: " + sum);
+        System.out.println("The sum of the digits is: " + sum);
 
         input.close();
     }
